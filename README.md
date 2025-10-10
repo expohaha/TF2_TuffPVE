@@ -30,7 +30,15 @@ Plugin is configured inside the `configs/tf_engipve.cfg` directory.
 |Weapons|A list of weapons that bots will use, defined as a list of items per slot. Upon spawn, bots will pick a random one for each slot|
 |Cosmetics|A list of cosmetics equipped on the bots|
 
+## Contributing 
+
+To contribute to this project, submit a pull request with your proposed changes. After a review by the project maintainers, your request will either be merged if the changes align with the project’s goals or declined if they do not.
+
 ## Update History
+
+### 0.9.2
+- #9 - Fixed replay bot getting assigned a team
+- #10 - Round timer is now continuous on mullti-stage maps
 
 ### 0.9.1
 - Potential fix for Enclosure map
